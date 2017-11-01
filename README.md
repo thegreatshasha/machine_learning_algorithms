@@ -21,4 +21,4 @@ This repository consists of the following.
 * Implement example of sum product algorithm.
 * Implement example of max product algorithm.
 * Implement junction tree algorithm.
-
+* Cross cat latex file and jupyter implementation.
