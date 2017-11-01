@@ -13,6 +13,10 @@ This repository consists of the following.
 * Add the tex file eg: 13.tex
 * Have the answers as separate sections.
 
+## Small Datasets
+* We maintain several small datasets to play around and compare algorithms.
+* Currently IRIS 
+
 ### TODO currently:
 * Implement example of sum product algorithm.
 * Implement example of max product algorithm.
